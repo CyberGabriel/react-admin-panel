@@ -6,3 +6,17 @@
 .app h1 {
   margin-top: 0;
 }
+
+.switchView {
+  width: 50%;
+  margin: 50px auto;
+}
+
+.options {
+  width: 50%;
+  margin: auto;
+}
+.themes {
+  width: 50%;
+  margin: auto;
+}
